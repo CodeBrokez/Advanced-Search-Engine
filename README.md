@@ -17,3 +17,12 @@ An intelligent search engine built using web scraping and Natural Language Proce
 - **HuggingFace Transformers**: For semantic text classification using pre-trained transformer models.
 - **Requests**: For handling HTTP requests to fetch content from URLs.
 - **Machine Learning**: The project uses semantic similarity models for ranking the relevance of the web pages.
+
+## Installation
+
+To run the project, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/advanced-search-engine.git
+   cd advanced-search-engine
